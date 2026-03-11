@@ -17,8 +17,7 @@
 - 💻 Interested in software, AI, and data science
 - 📫 Email: lingtongmeng0727@gmail.com
 
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlt0727&layout=compact" height=145/></span> <span><img src="https://github-readme-stats.vercel.app/api?username=mlt0727&count_private=true&show_icons=true" height=145/></span>
-
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlt0727&layout=compact" height=145/></span>
 ### 🐍 Contribution Snake
 
 <picture>
