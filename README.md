@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Hi%F0%9F%91%8B%2C+I'm+Lingtong+Meng.;FIU+Data+Science+%26+AI+Student.;Python+%7C+C%2B%2B+%7C+Java." />
@@ -10,6 +13,8 @@ I’m Lingtong Meng
 - 🎓 FIU Data Science & AI
 - 💻 Interested in software, AI, and data science
 - 📫 Email: lingtongmeng0727@gmail.com
+
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengsixsix&layout=compact" height=145/></span>
 
 ### 🐍 Contribution Snake
 
