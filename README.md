@@ -7,8 +7,11 @@
   </a>
 </p>
 
-## Hi there 👋
-I’m Lingtong Meng
+<h1>
+    Hey there, I'm Lingtong Meng!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  </div>
 
 - 🎓 FIU Data Science & AI
 - 💻 Interested in software, AI, and data science
